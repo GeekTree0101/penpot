@@ -33,9 +33,7 @@
                           :y 0
                           :width width
                           :height height}))]
-      [:svg {:x x :y y :width width :height height
-             :xmlnsXlink "http://www.w3.org/1999/xlink"
-             :xmlns "http://www.w3.org/2000/svg"}
+      [:*
        [:> "rect" props]
        (for [[i item] (d/enumerate childs)]
          [:& shape-wrapper {:frame shape

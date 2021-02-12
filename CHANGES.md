@@ -32,6 +32,7 @@
 - Fix ordering when restoring deleted shapes in sync [Taiga #1163](https://tree.taiga.io/project/penpot/issue/1163)
 - Fix problem when editing text immediately after creating [Taiga #1207](https://tree.taiga.io/project/penpot/issue/1207)
 - Fix problem when pasting URL's copied from the browser url bar [Taiga #1187](https://tree.taiga.io/project/penpot/issue/1187)
+- Fix problem width handoff code generation [Taiga #1204](https://tree.taiga.io/project/penpot/issue/1204)
 - Fix problem with multiple selection and groups [Taiga #1128](https://tree.taiga.io/project/penpot/issue/1128)
 - Fix problem with red handler indicator on resize [Taiga #1188](https://tree.taiga.io/project/penpot/issue/1188)
 - Fix show correct error when google auth is disabled [Taiga #1119](https://tree.taiga.io/project/penpot/issue/1119)
