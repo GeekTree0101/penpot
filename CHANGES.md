@@ -4,6 +4,9 @@
 
 ### New features
 
+- Add major refactor of internal pubsub/redis code. Improves
+  scalability and performance #640
+
 ### Bugs fixed
 
 - Add some missing database indexes (mainly improves performance on
