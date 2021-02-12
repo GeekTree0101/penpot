@@ -3,8 +3,12 @@
 ## Next
 
 ### New features
+
 ### Bugs fixed
 
+- Add some missing database indexes (mainly improves performance on
+  large databases on file-update rpc method, and some background
+  tasks).
 
 ## 1.2.0-alpha
 

@@ -148,6 +148,13 @@
 
    {:name "0045-add-index-to-file-change-table"
     :fn (mg/resource "app/migrations/sql/0045-add-index-to-file-change-table.sql")}
+
+   {:name "0047-mod-file-change-table"
+    :fn (mg/resource "app/migrations/sql/0047-mod-file-change-table.sql")}
+
+   {:name "0048-mod-storage-tables"
+    :fn (mg/resource "app/migrations/sql/0048-mod-storage-tables.sql")}
+
    ])
 
 
