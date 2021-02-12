@@ -4,13 +4,14 @@
 
 ### New features
 
-- Bounce & Complaint handling.
+- Email Bounce & Complaint handling
 
 
 ### Bugs fixed
 
-- Properly handle errors on github, gitlab and ldap auth backends.
-- Properly mark profile auth backend (on first register/ auth with 3rd party auth provider).
+- Properly handle errors on github, gitlab and ldap auth backends
+- Properly mark profile auth backend (on first register/ auth with 3rd party auth provider)
+- Fix behavior of select all command when there are objects outside frames [Taiga #1209](https://tree.taiga.io/project/penpot/issue/1209)
 
 
 
